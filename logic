@@ -1,0 +1,6 @@
+#Name: Treeshan Yeadram
+#Date: 15 October 2018
+#this Program Computes the majority of 3 inputs
+
+out = not((in1 and in2) or (in2 and in1))
+

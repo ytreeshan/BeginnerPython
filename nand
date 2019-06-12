@@ -1,0 +1,5 @@
+#Amanda Chan
+#9 October 2018
+#Computes NAND of two inputs with AND, OR, NOT
+
+out=not(in1 and in2)
